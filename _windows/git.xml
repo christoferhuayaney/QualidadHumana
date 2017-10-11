@@ -1,6 +1,6 @@
 <application>
   <component name="Git.Application.Settings">
-    <option name="myPathToGit" value="F:\programacion\Android\ejemplos\repositorio\" />
+    <option name="myPathToGit" value="https://github.com/trecelink/qualidadhumana" />
     <option name="SSH_EXECUTABLE" value="IDEA_SSH" />
   </component>
 </application>
